@@ -11,7 +11,6 @@ void main()
 	for(i=0;i<n;i++)
 	scanf("%d",&b[i]);
 	add(a,b,n);
-
 }
 void add(int a[],int b[],int n)
 {
