@@ -36,5 +36,4 @@ void add(int a[],int b[],int n)
 	for(i=0;i<n;i++)
 	printf("%d ",c[i]);
 	getch();
-
 }
